@@ -1,0 +1,10 @@
+body {
+    background-image: url("http://ec2-52-91-71-84.compute-1.amazonaws.com/cs360/lab0/pages/booly.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 128px;
+}
+
+h1 {
+   background-color:#66ccff;
+}
