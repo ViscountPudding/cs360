@@ -8,6 +8,9 @@ router.get('/', function(req, res, next) {
 
 router.get('/pid', function(req, res, next) {
   console.log("Service ID "+process.pid);
+  res.header("Cache-Control", "no-cache, no-store, must-revalidate");
+  res.header("Pragma", "no-cache");
+  res.header("Expires", 0);
   res.json({ title: 'Cluster', pid:process.pid });
 });
 
