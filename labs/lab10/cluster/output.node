@@ -1,0 +1,208 @@
+nohup: ignoring input
+numCPUs 1
+Worker 18124
+Worker 18125
+Worker 18130
+Worker 18135
+[0mGET / [36m304 [0m14.881 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m2.877 ms - -[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m8.584 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m8.990 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m8.835 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m2.001 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m1.776 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m2.214 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m1.885 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.483 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.651 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.684 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.608 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.381 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.558 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.504 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.728 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.541 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.509 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.495 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.627 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.334 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.495 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.522 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.449 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.324 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.950 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.490 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.435 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.326 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.375 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.390 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.327 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.355 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.382 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.378 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.348 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.628 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.415 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m1.292 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.344 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.323 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.529 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.685 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.623 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.635 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m2.608 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m2.681 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m2.656 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.593 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.712 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.634 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.629 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m1.135 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.514 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.553 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.483 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.363 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.576 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m1.091 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.688 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.342 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m1.323 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.332 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.302 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m2.541 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m2.052 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.329 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.345 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.518 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.448 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.554 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.467 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.353 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m1.244 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m1.347 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m1.222 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.375 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.319 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.309 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.300 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.471 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.467 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.540 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.556 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.315 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.543 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.658 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.558 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.314 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.636 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.710 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.744 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.686 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m0.324 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m0.388 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m0.323 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m3.515 ms - 31[0m
+Service ID 18130
+[0mGET /pid [32m200 [0m1.093 ms - 31[0m
+Service ID 18125
+[0mGET /pid [32m200 [0m1.033 ms - 31[0m
+Service ID 18124
+[0mGET /pid [32m200 [0m1.074 ms - 31[0m
+Service ID 18135
+[0mGET /pid [32m200 [0m0.641 ms - 31[0m
